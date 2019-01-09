@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 846732faa4140374da4cf31dbbfc52e2
+timeCreated: 1492082389
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - hit_jaw: {fileID: 8300000, guid: 2cdeb47744b25e348ba11efab424fde4, type: 3}
+  - hit_head: {fileID: 8300000, guid: b0659bba43eb86f4dab034dd1803e372, type: 3}
+  - hit_tail: {fileID: 8300000, guid: c4748159a2d67d540ab8ad33bda91b31, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: da20d4ecb093c2f4cbea02119e8c4f85
+timeCreated: 1491369658
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - health_icon: {fileID: 2800000, guid: 50855eeb24364fb4f99e5a5174ec8fce, type: 3}
+  - food_icon: {fileID: 2800000, guid: e4750d4d37131514eb8363125c4d5be3, type: 3}
+  - water_icon: {fileID: 2800000, guid: f01c09087ddefbc41b8369e1055ecf88, type: 3}
+  - sleep_icon: {fileID: 2800000, guid: 358714e4e6ed5e7439796aa18cf987e8, type: 3}
+  - bar_texture: {fileID: 2800000, guid: 468e57773874a7f4ab9260b046321493, type: 3}
+  - help: {fileID: 2800000, guid: 369532d84c0862c45860f1116543905b, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

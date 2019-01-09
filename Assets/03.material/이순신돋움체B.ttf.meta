@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 5c6f4ef21d5a3dc408a44e1e9adb657d
+timeCreated: 1496150318
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: YiSunShin Dotum B
+  fontNames:
+  - YiSunShin Dotum B
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
