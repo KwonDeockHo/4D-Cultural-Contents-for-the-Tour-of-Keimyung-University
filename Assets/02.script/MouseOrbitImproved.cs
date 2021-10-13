@@ -20,7 +20,7 @@ public class MouseOrbitImproved : MonoBehaviour {
     float x = 0.0f;
     float y = 0.0f;
  
-    // Use this for initialization
+    // initialization
     void Start () 
     {
         Vector3 angles = transform.eulerAngles;
@@ -29,7 +29,6 @@ public class MouseOrbitImproved : MonoBehaviour {
 
         rigid = GetComponent<Rigidbody>();
  
-        // Make the rigid body not change rotation
         if (rigid != null)
         {
             rigid.freezeRotation = true;
